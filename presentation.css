@@ -109,6 +109,7 @@ body { width:297mm; }
 .statement-lines .statement-quote { margin-top:3mm; color:var(--ice); font-size:16pt; }
 .statement-lines.compact { max-width:230mm; }
 .statement-lines.compact p { max-width:220mm; margin-bottom:4.5mm; font-size:18pt; line-height:1.32; }
+.statement-kicker { margin:1mm 0 2.5mm; color:var(--ice); font-size:12pt; line-height:1.2; font-weight:600; letter-spacing:.02em; }
 .slide-main.layout-specs { display:flex; flex-direction:column; justify-content:center; }
 .specs-statement { color:#9aabba; font-size:10pt; margin-bottom:5mm; }
 .slide-main.layout-specs .feature-list { grid-template-columns:repeat(5,1fr); gap:6mm; margin-top:0; }
@@ -159,3 +160,4 @@ body { width:297mm; }
 .contact-form-summary p { margin:0 0 1.4mm; }
 .contact-form-summary .form-fields { color:#d1dbe4; font-size:9.5pt; letter-spacing:.04em; }
 .contact-form-summary a { color:var(--ice); text-decoration:underline; }
+.history-link { margin-top:2mm; padding:2.2mm 4mm; font-size:9.5pt; }

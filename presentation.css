@@ -152,3 +152,10 @@ body { width:297mm; }
 .specs-statement .brand-phrase { max-width:none; margin:1mm 0 0; color:var(--ice); font-size:12pt; line-height:1.2; }
 .action-link { display:inline-block; align-self:flex-start; margin-top:1mm; padding:3mm 6mm; border:1px solid rgba(183,231,255,.58); color:#eaf1f8; font-size:11pt; letter-spacing:.04em; text-decoration:none; }
 #slide-26 .contact-copy .copy { max-width:100mm; margin-bottom:4mm; font-size:12pt; line-height:1.3; }
+
+/* Заголовки и служебные строки, сохранённые из контента сайта */
+.gazebo-tagline { margin:0 0 1.5mm; color:var(--ice); font-size:10pt; line-height:1.2; }
+.contact-form-summary { margin-top:4mm; padding-top:2.5mm; border-top:1px solid var(--line); color:#9eabb9; font-size:8.7pt; line-height:1.25; }
+.contact-form-summary p { margin:0 0 1.4mm; }
+.contact-form-summary .form-fields { color:#d1dbe4; font-size:9.5pt; letter-spacing:.04em; }
+.contact-form-summary a { color:var(--ice); text-decoration:underline; }

@@ -1,0 +1,357 @@
+[
+  {
+    "presentation_page": 1,
+    "number": null,
+    "source_ids": [
+      "s01"
+    ],
+    "title": "Свет как материал",
+    "chapter": "",
+    "layout": "cover",
+    "images": [
+      "lunarite-title-background-client-v01-1931.webp"
+    ]
+  },
+  {
+    "presentation_page": 2,
+    "number": 1,
+    "source_ids": [
+      "s02"
+    ],
+    "title": "От статичной формы / к живой атмосфере",
+    "chapter": "Образ материала",
+    "layout": "gallery",
+    "images": [
+      "application-facade-relief-v02.jpg",
+      "application-park-sculpture-v03.webp",
+      "application-light-surfaces-v02.jpg",
+      "application-gazebos-pavilions-v02.jpg"
+    ]
+  },
+  {
+    "presentation_page": 3,
+    "number": 2,
+    "source_ids": [
+      "s03"
+    ],
+    "title": "Люнарит / Материал, рождённый для света",
+    "chapter": "Материал",
+    "layout": "gallery",
+    "images": [
+      "material-lab-light-v03.webp",
+      "material-stone-crystal-v04.webp",
+      "range-relief.webp",
+      "range-reception.webp",
+      "range-basin.webp",
+      "range-chandelier.webp"
+    ]
+  },
+  {
+    "presentation_page": 4,
+    "number": 3,
+    "source_ids": [
+      "s04"
+    ],
+    "title": "Фасады / Архитектурная пластика",
+    "chapter": "Фасады",
+    "layout": "compare",
+    "images": [
+      "sculpture-showreel-poster.webp",
+      "facade-moulding-showreel-poster.webp"
+    ]
+  },
+  {
+    "presentation_page": 5,
+    "number": 4,
+    "source_ids": [
+      "s05"
+    ],
+    "title": "Интерьеры / Свет и форма",
+    "chapter": "Интерьеры",
+    "layout": "gallery",
+    "images": [
+      "interior-relief-v01.webp",
+      "interior-objects-v02.webp",
+      "interior-light-v01.webp",
+      "interior-furniture-bathtub-v01.webp",
+      "interior-furniture-dining-table-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 6,
+    "number": 5,
+    "source_ids": [
+      "s06"
+    ],
+    "title": "Парки и городская среда / Свет в открытом пространстве",
+    "chapter": "Парки и город",
+    "layout": "gallery",
+    "images": [
+      "park-object-01-sculpture-v01.webp",
+      "park-object-03-pavilion-v01.webp",
+      "outdoor-advertising-01-sign-v01.webp",
+      "outdoor-advertising-04-light-installation-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 7,
+    "number": 6,
+    "source_ids": [
+      "s07",
+      "s08"
+    ],
+    "title": "Фасадный рельеф и световые сценарии",
+    "chapter": "Фасады",
+    "layout": "facade-story",
+    "images": [
+      "facade-day-relief-wide-v01.webp",
+      "facade-night-relief-wide-v02.webp",
+      "facade-3d-mapping-background-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 8,
+    "number": 7,
+    "source_ids": [
+      "s09"
+    ],
+    "title": "Искусство с двумя жизнями",
+    "chapter": "Парки и город",
+    "layout": "gallery",
+    "images": [
+      "sculpture-gallery-01-lion-family-v01.webp",
+      "sculpture-gallery-03-dancer-v01.webp",
+      "sculpture-gallery-05-fountain-group-dusk-v01.webp",
+      "sculpture-gallery-09-horse-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 9,
+    "number": 8,
+    "source_ids": [
+      "s10"
+    ],
+    "title": "Свет как язык пространства",
+    "chapter": "Парки и город",
+    "layout": "split",
+    "images": [
+      "spatial-light-language-background-v02.webp"
+    ]
+  },
+  {
+    "presentation_page": 10,
+    "number": 9,
+    "source_ids": [
+      "s11",
+      "s12"
+    ],
+    "title": "Световая беседка и сценарии",
+    "chapter": "Парки и город",
+    "layout": "gazebo-story",
+    "images": [
+      "gazebo-day-v01.webp",
+      "gazebo-dusk-v01.webp",
+      "gazebo-scenarios-background-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 11,
+    "number": 10,
+    "source_ids": [
+      "s13"
+    ],
+    "title": "Покрытие, / на которое ступают",
+    "chapter": "Парки и город",
+    "layout": "compare",
+    "images": [
+      "light-paths-day-v01.webp",
+      "light-paths-night-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 12,
+    "number": 11,
+    "source_ids": [
+      "s14"
+    ],
+    "title": "Практичность без компромиссов",
+    "chapter": "Парки и город",
+    "layout": "split",
+    "images": [
+      "courtyard-practicality-background-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 13,
+    "number": 12,
+    "source_ids": [
+      "s15"
+    ],
+    "title": "Свет в интерьере",
+    "chapter": "Интерьеры",
+    "layout": "gallery",
+    "images": [
+      "interior-light-panels-v01.webp",
+      "interior-luminous-partitions-v02.webp",
+      "interior-bas-reliefs-v03.webp",
+      "interior-chandeliers-v01.webp",
+      "interior-furniture-sinks-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 14,
+    "number": 13,
+    "source_ids": [
+      "s16"
+    ],
+    "title": "Световое панно",
+    "chapter": "Интерьеры",
+    "layout": "split",
+    "images": [
+      "luminous-panel-interior-wide-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 15,
+    "number": 14,
+    "source_ids": [
+      "s17"
+    ],
+    "title": "Светящаяся перегородка",
+    "chapter": "Интерьеры",
+    "layout": "gallery",
+    "images": [
+      "partition-private-residence-wide-v02.webp",
+      "partition-restaurant-wide-v01.webp",
+      "partition-exhibition-wide-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 16,
+    "number": 15,
+    "source_ids": [
+      "s18"
+    ],
+    "title": "Световой барельеф",
+    "chapter": "Интерьеры",
+    "layout": "split",
+    "images": [
+      "bas-relief-beer-pub-background-v01.webp"
+    ]
+  },
+  {
+    "presentation_page": 17,
+    "number": 16,
+    "source_ids": [
+      "s19"
+    ],
+    "title": "Наш подход к решению задачи",
+    "chapter": "Работа над проектом",
+    "layout": "process",
+    "images": []
+  },
+  {
+    "presentation_page": 18,
+    "number": 17,
+    "source_ids": [
+      "s20"
+    ],
+    "title": "Рекомендованные решения",
+    "chapter": "Работа над проектом",
+    "layout": "table",
+    "images": []
+  },
+  {
+    "presentation_page": 19,
+    "number": 18,
+    "source_ids": [
+      "s21"
+    ],
+    "title": "Увидеть будущий объект / уже сейчас",
+    "chapter": "Работа над проектом",
+    "layout": "visualization",
+    "images": []
+  },
+  {
+    "presentation_page": 20,
+    "number": 19,
+    "source_ids": [
+      "m01"
+    ],
+    "title": "Люнарит / Свет, ставший камнем",
+    "chapter": "О материале",
+    "layout": "material-cover",
+    "images": [
+      "material-lab-light-v03.webp"
+    ]
+  },
+  {
+    "presentation_page": 21,
+    "number": 20,
+    "source_ids": [
+      "m02"
+    ],
+    "title": "Специально создан для световых форм",
+    "chapter": "О материале",
+    "layout": "essay",
+    "images": []
+  },
+  {
+    "presentation_page": 22,
+    "number": 21,
+    "source_ids": [
+      "m03"
+    ],
+    "title": "Камень, который раскрывает свет",
+    "chapter": "О материале",
+    "layout": "split",
+    "images": [
+      "range-relief.webp"
+    ]
+  },
+  {
+    "presentation_page": 23,
+    "number": 22,
+    "source_ids": [
+      "m04"
+    ],
+    "title": "Создан для пространства",
+    "chapter": "О материале",
+    "layout": "feature-grid",
+    "images": []
+  },
+  {
+    "presentation_page": 24,
+    "number": 23,
+    "source_ids": [
+      "m05",
+      "m06"
+    ],
+    "title": "Поштучное создание Люнарита",
+    "chapter": "О материале",
+    "layout": "statement-compact",
+    "images": []
+  },
+  {
+    "presentation_page": 25,
+    "number": 24,
+    "source_ids": [
+      "m07"
+    ],
+    "title": "Характеристики",
+    "chapter": "О материале",
+    "layout": "specs",
+    "images": []
+  },
+  {
+    "presentation_page": 26,
+    "number": 25,
+    "source_ids": [
+      "s22"
+    ],
+    "title": "Обсудить проект",
+    "chapter": "Работа над проектом",
+    "layout": "contact",
+    "images": []
+  }
+]

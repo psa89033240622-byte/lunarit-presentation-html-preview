@@ -162,3 +162,14 @@ body { width:297mm; }
 .contact-form-summary .form-fields { color:#d1dbe4; font-size:9.5pt; letter-spacing:.04em; }
 .contact-form-summary a { color:var(--ice); text-decoration:underline; }
 .history-link { margin-top:2mm; padding:2.2mm 4mm; font-size:9.5pt; }
+
+
+/* Page 2: composition adapted from the website, with left-aligned text. */
+#slide-02 .slide-main.layout-gallery { display:flex; flex-direction:column; align-items:stretch; gap:3mm; }
+#slide-02 .gallery-copy { flex:none; align-self:stretch; max-height:none; overflow:visible; padding:0; }
+#slide-02 .gallery-copy .subtitle { margin:0; padding:3mm 4mm; border:1px solid rgba(220,234,255,.20); background:rgba(20,30,44,.72); text-align:left; }
+#slide-02 .gallery-copy .copy { max-width:none; margin:2.5mm 0 0; font-size:12.5pt; line-height:1.2; text-align:left; }
+#slide-02 .media-gallery.count-4 { flex:1 1 auto; min-height:0; grid-template-columns:repeat(4,minmax(0,1fr)); grid-template-rows:minmax(0,1fr); }
+#slide-02 .media-gallery figure { display:grid; grid-template-rows:minmax(0,1fr) 10mm; border:1px solid rgba(230,239,247,.18); background:rgba(6,10,17,.85); }
+#slide-02 .media-gallery img { grid-row:1; }
+#slide-02 .media-gallery figcaption { position:static; display:flex; align-items:center; justify-content:center; min-width:0; padding:1.5mm 1mm; border-top:1px solid rgba(230,239,247,.18); background:rgba(6,10,17,.88); font-size:8pt; line-height:1.15; letter-spacing:.025em; text-align:center; }
